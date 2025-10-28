@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714 599" height="599" width="714">
+  <g style="display:inline">
+    <!-- Horizontal and vertical axes -->
+    <path d="m 36.5,333.5 h 661" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M 322.5,596.5 V 67.5" style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
+    
+    <!-- Main curved path -->
+    <path d="m 291.88699,333.58081 c -32.52036,7.09584 -63.71186,20.23458 -91.50801,38.54575 -13.61614,8.96986 -26.51478,19.25954 -36.91547,31.81674 -10.40069,12.5572 -18.24183,27.51342 -20.8771,43.60419 -2.08798,12.74906 -0.8477,26.00771 3.40667,38.20601 4.25437,12.1983 11.50004,23.32028 20.82033,32.26625 18.64057,17.89195 45.45665,26.51564 71.18301,24.11835 30.28349,-2.82194 57.86803,-20.00975 78.54672,-42.31323 20.67868,-22.30348 35.24012,-49.51297 48.3714,-76.94694 43.34268,-90.55187 73.64293,-187.33413 89.67635,-286.43588" transform="translate(30.721896)" style="fill:none;stroke:#010199;stroke-width:3.25;stroke-linecap:round;stroke-linejoin:round"/>
+    
+    <!-- Arrows -->
+    <path d="m 311.74672,77.820938 c 7.16986,-0.001 14.33871,-0.001 21.50656,0 -3.66015,-7.516408 -7.09061,-15.033913 -10.75328,-22.54937 -3.50599,7.515042 -7.24509,15.031913 -10.75328,22.54937 z" style="fill:#000000"/>
+    <path d="m 688.43529,322.74672 c 10e-4,7.16986 10e-4,14.33871 0,21.50656 7.51641,-3.66015 15.03392,-7.09061 22.54937,-10.75328 -7.51504,-3.50599 -15.03191,-7.24509 -22.54937,-10.75328 z" style="fill:#000000"/>
+    
+    <!-- Title -->
+    <text x="357.01559" y="34.886784" style="font-size:31.937px;font-weight:bold;text-align:center;text-anchor:middle">Phases of Resistance</text>
+    
+    <!-- Phase descriptions -->
+    <text x="586.23071" y="140.58974" style="font-size:16.151px;text-anchor:middle;fill:#0000ff">
+        <tspan x="586.23071" y="140.58974" style="font-weight:bold">Sabotage:</tspan>
+        <tspan x="586.23071" y="160.77881" style="font-weight:normal">Disrupt operations,</tspan>
+        <tspan x="586.23071" y="180.96788" style="font-weight:normal">Undermine authority,</tspan>
+        <tspan x="586.23071" y="201.15695" style="font-weight:normal">Expose weaknesses</tspan>
+    </text>
+    
+    <text x="484.54321" y="436.19092" style="font-size:16.151px;text-anchor:middle;fill:#0000ff">
+        <tspan x="484.54321" y="436.19092" style="font-weight:bold">Revolt:</tspan>
+        <tspan x="484.54321" y="456.38" style="font-weight:normal">Acts of defiance,</tspan>
+        <tspan x="484.54321" y="476.56906" style="font-weight:normal">Confront policies openly,</tspan>
+        <tspan x="484.54321" y="496.56923" style="font-weight:normal">Encourage others to join</tspan>
+
+    </text>
+    
+    <text x="118.10855" y="356.88892" style="font-size:16.151px;text-anchor:middle;fill:#0000ff">
+        <tspan x="118.10855" y="356.88892" style="font-weight:bold">Refusal to Understand:</tspan>
+        <tspan x="118.10855" y="377.078" style="font-weight:normal">Incomprehension, Negation,</tspan>
+        <tspan x="118.10855" y="397.26706" style="font-weight:normal">Outright rejection</tspan>
+    </text>
+    
+    <text x="100.12315" y="443.22418" style="font-size:16.151px;text-anchor:middle;fill:#0000ff">
+        <tspan x="100.12315" y="443.22418" style="font-weight:bold">Inertia:</tspan>
+        <tspan x="100.12315" y="463.41327" style="font-weight:normal">Information overload,</tspan>
+        <tspan x="100.12315" y="483.60233" style="font-weight:normal">Paralysis, Trust issues</tspan>
+
+    </text>
+    
+    <text x="161.88051" y="539.92438" style="font-size:16.151px;text-anchor:middle;fill:#0000ff">
+        <tspan x="161.88051" y="539.92438" style="font-weight:bold">Argument:</tspan>
+        <tspan x="161.88051" y="560.11346" style="font-weight:normal">In-fighting, Blame,</tspan>
+        <tspan x="161.88051" y="580.30255" style="font-weight:normal">Disagreement over next steps</tspan>
+
+    </text>
+    
+    <!-- Shock event label -->
+    <text transform="rotate(23.825887)" x="373.52277" y="175.51518" style="font-size:16.151px;font-weight:bold;text-anchor:middle;fill:#0000ff">shock event</text>
+    
+    <!-- Axis labels -->
+    <text x="361.43448" y="96.27417" style="font-size:16.151px;text-anchor:middle">Energy +</text>
+    <text x="361.20972" y="588.58197" style="font-size:16.151px;text-anchor:middle">Energy –</text>
+    <text x="633.54272" y="327.85114" style="font-size:16.151px;text-anchor:middle">Satisfaction +</text>
+    <text x="87.906784" y="327.85114" style="font-size:16.151px;text-anchor:middle">Satisfaction –</text>
+    
+    <!-- Red squares -->
+    <g transform="rotate(-45.000019)">
+        <rect x="240.52901" y="435.75867" width="10.719792" height="10.719792" style="fill:#990000"/>
+        <rect x="-13.138214" y="458.50214" width="10.719792" height="10.719792" style="fill:#990000"/>
+        <rect x="-104.7662" y="421.29382" width="10.719792" height="10.719792" style="fill:#990000"/>
+        <rect x="-199.08197" y="433.68307" width="10.719792" height="10.719792" style="fill:#990000"/>
+        <rect x="-24.504625" y="573.24847" width="10.719792" height="10.719792" style="fill:#990000"/>
+        <rect x="-198.56425" y="567.78113" width="10.719792" height="10.719792" style="fill:#990000"/>
+    </g>
+  </g>
+</svg>
